@@ -38,7 +38,7 @@ const Projects = () => {
       </div>
     </div>
 
-    {/* <div id='p3'  className="project li">
+    <div id='p3'  className="project li">
       <div className="flip-box">
         <div className="flip-box-inner">
           <div className="flip-box-font">
@@ -50,9 +50,9 @@ const Projects = () => {
           </div>
         </div>
       </div>
-    </div> */}
+    </div>
 
-    {/* <div id='p4' className="project li">
+    <div id='p4' className="project li">
       <div className="flip-box">
         <div className="flip-box-inner">
           <div className="flip-box-font">
@@ -60,11 +60,12 @@ const Projects = () => {
           </div>
           <div className="flip-box-back">
             <h3>Weather App ⛅</h3>
-            <p>A real-time weather app using RapidAPI to fetch accurate forecasts. Get temperature, humidity, and weather conditions for any location instantly.</p>
+            <p>
+            "This project is built using React and integrates a JSON API containing all the governorates of Jordan, allowing users to select a city and fetch related weather data dynamically."</p>
           </div>
         </div>
       </div>
-    </div> */}
+    </div>
 
   </div>
 </div>
