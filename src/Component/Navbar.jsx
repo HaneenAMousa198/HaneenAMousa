@@ -34,22 +34,22 @@ const Navbar = () => {
 
             <ul className="navbar-nav">
               <li>
-                <Link to="/" smooth={true} duration={500} className={location.pathname === "/" ? "active" : ""}>Home</Link>
+                <Link to="/" smooth={true.toString()} duration={500} className={location.pathname === "/" ? "active" : ""}>Home</Link>
               </li>
               <li>
-                <Link to="/about" smooth={true} duration={500} className={location.pathname === "/about" ? "active" : ""}>About</Link>
+                <Link to="/about" smooth={true.toString()} duration={500} className={location.pathname === "/about" ? "active" : ""}>About</Link>
               </li>
               <li>
-                <Link to="/education" smooth={true} duration={500} className={location.pathname === "/education" ? "active" : ""}>Education</Link>
+                <Link to="/education" smooth={true.toString()} duration={500} className={location.pathname === "/education" ? "active" : ""}>Education</Link>
               </li>
               <li>
-                <Link to="/skills" smooth={true} duration={500} className={location.pathname === "/skills" ? "active" : ""}>Skills</Link>
+                <Link to="/skills" smooth={true.toString()} duration={500} className={location.pathname === "/skills" ? "active" : ""}>Skills</Link>
               </li>
               <li>
-                <Link to="/project" smooth={true} duration={500} className={location.pathname === "/project" ? "active" : ""}>Projects</Link>
+                <Link to="/project" smooth={true.toString()} duration={500} className={location.pathname === "/project" ? "active" : ""}>Projects</Link>
               </li>
               <li>
-                <Link to="/contact" smooth={true} duration={500} className={location.pathname === "/contact" ? "active" : ""}>Contact</Link>
+                <Link to="/contact" smooth={true.toString()} duration={500} className={location.pathname === "/contact" ? "active" : ""}>Contact</Link>
               </li>
             </ul>
   

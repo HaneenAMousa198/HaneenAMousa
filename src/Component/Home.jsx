@@ -10,7 +10,7 @@ const Home = () => {
         <div className="contain">
           <div className="hello">
             <p className='hlo'>HELLO I'M HANEEN MOUSA</p>
-            <h1><Typewriter /></h1>
+            <Typewriter />
           </div>
           <div className="objective">
             <p >Passionate web developer, dedicated to creating user-friendly and responsive websites. I strive to blend creativity with functionality, ensuring seamless and engaging user experiences.
@@ -18,7 +18,7 @@ const Home = () => {
           </div>
         </div>
         <div className="resume">  
-          <a href="/HANEEN_MOUSA.pdf" download>
+          <a href="/resume.pdf" download>
           <h3>Downlode Resume</h3>
           </a>
         </div>

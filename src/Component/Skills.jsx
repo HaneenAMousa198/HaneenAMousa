@@ -13,34 +13,34 @@ const Skills = () => {
             <ul className='ul'>
               <li className='li'>
                 <strong>Programming Languages:</strong>
-                <div class="logo-container">
-                  <i class="devicon-php-plain colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-php-plain colored"></i>
                   <span className='techSk'>PHP</span>
                 </div>
                 <div className="logo-container">
-                  <i class="devicon-javascript-plain colored"></i>
+                  <i className="devicon-javascript-plain colored"></i>
                   <span className='techSk'>JavaScript</span>
                 </div>
 
               </li>
               <li className='li'>
                 <strong>Web Development:</strong>
-                <div class="logo-container">
-                  <i class="devicon-laravel-plain colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-laravel-plain colored"></i>
                   <span className='techSk'>Laravel</span>
                 </div>
                 
 
-                <div class="logo-container">
-                  <i class="devicon-react-original colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-react-original colored"></i>
                   <span className='techSk'>React.js</span>
                 </div>
-                <div class="logo-container">
-                  <i class="devicon-bootstrap-plain colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-bootstrap-plain colored"></i>
                   <span className='techSk'>Bootstrap</span>
                 </div>
-                <div class="logo-container">
-                  <i class="devicon-dot-net-plain colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-dot-net-plain colored"></i>
                   <span className='techSk'>ASP.NET</span>
                 </div>
 
@@ -48,12 +48,12 @@ const Skills = () => {
 
               <li className='li'>
                 <strong>Version Control:</strong>
-                <div class="logo-container">
-                  <i class="devicon-git-plain colored"></i>
+                <div className="logo-container">
+                  <i className="devicon-git-plain colored"></i>
                   <span className='techSk'>Git</span>
                 </div>
-                <div class="logo-container">
-                  <i class="devicon-github-original"></i>
+                <div className="logo-container">
+                  <i className="devicon-github-original"></i>
                   <span className='techSk'>GitHub</span>
                 </div>
 
@@ -67,15 +67,15 @@ const Skills = () => {
     <ul className='ul'>
       <li className='li'>
         <strong>Communication:</strong>
-        <div class="logo-container">
-          <i class="devicon-communication-plain colored"></i>
+        <div className="logo-container">
+          <i className="devicon-communication-plain colored"></i>
           <span className='softSK'>Fluent in English, I can communicate my ideas effectively, ensuring clarity in both professional and personal conversations.</span>
         </div>
       </li>
       <li className='li'>
         <strong>Teamwork:</strong>
-        <div class="logo-container">
-          <i class="devicon-communication-plain colored"></i>
+        <div className="logo-container">
+          <i className="devicon-communication-plain colored"></i>
           <span className='softSK'>Enjoy working with teams, building strong relationships, and collaborating to achieve common goals, whether individually or as part of a group.</span>
         </div>
       </li>
@@ -83,15 +83,15 @@ const Skills = () => {
      
       <li className='li'>
         <strong>Leadership:</strong>
-        <div class="logo-container">
-          <i class="devicon-leadership-plain colored"></i>
+        <div className="logo-container">
+          <i className="devicon-leadership-plain colored"></i>
           <span className='softSK'>With leadership experience from my childhood, including being a team captain, I guide others, helping them grow and succeed as part of a team.</span>
         </div>
       </li>
       <li className='li'>
         <strong>Problem Solving:</strong>
-        <div class="logo-container">
-          <i class="devicon-problem-solving-plain colored"></i>
+        <div className="logo-container">
+          <i className="devicon-problem-solving-plain colored"></i>
           <span className='softSK'>Excellent at critical thinking, I can break down complex problems and find effective solutions, both in tech and real-world situations.</span>
         </div>
       </li>

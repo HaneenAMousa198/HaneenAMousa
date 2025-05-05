@@ -325,7 +325,7 @@ display: none;
   align-items: center;
 }
 
-.image {
+/* .image {
  margin-left: 20%;
   height: 75%;
   width: 75%;
@@ -333,7 +333,7 @@ display: none;
   background-size: 100% 100%;
   animation: slideInRight 0.5s ease 0s;
   border: 2px solid #00c6ff;
-}
+} */
 
 .right {
   color: rgb(207, 206, 206);
@@ -402,11 +402,11 @@ display: none;
   justify-content: center;
   align-items: center;
 }
-.image{
+/* .image{
   margin: 0px;
   height: 100%;
   width: 80%;
-}
+} */
 }
 
 @media screen and (max-width: 480px) {
@@ -422,7 +422,7 @@ display: none;
 }
 
 .education {
-  height: 90%;
+  height: 105%;
   width: 100%;
   color: white;
   display: flex;
@@ -432,7 +432,7 @@ display: none;
 
 .education::before {
   content: '';
-  position: absolute;
+  position: auto;
   height: 100%;
   width: 100%;
   left: 0;
