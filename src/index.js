@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom";  // Change BrowserRouter to Ha
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter> 
+    <BrowserRouter basename='https://github.com/HaneenAMousa198/haneenmousa.github.io'> 
       <App />
     </BrowserRouter>
   </React.StrictMode>
