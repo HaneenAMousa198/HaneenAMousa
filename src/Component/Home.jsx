@@ -18,7 +18,7 @@ const Home = () => {
           </div>
         </div>
         <div className="resume">  
-          <a href="/resume.pdf" download>
+          <a href="/HANEEN_MOUSA.pdf " download>
           <h3>Downlode Resume</h3>
           </a>
         </div>
