@@ -3,7 +3,7 @@ import Typewriter from './Typewriter'
 
 const Home = () => {
   return (
-    <>
+   <>
     
       <div className="fakeHadding"></div>
       <div className='home'>
@@ -18,7 +18,7 @@ const Home = () => {
           </div>
         </div>
         <div className="resume">  
-          <a href="/HANEEN_MOUSA.pdf" download="Haneen_Resume.pdf>
+          <a href="/HANEEN_MOUSA.pdf" download>
           <h3>Download Resume</h3>
           </a>
         </div>
