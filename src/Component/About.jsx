@@ -4,7 +4,7 @@ import React from 'react'
 const About = () => {
   return (
     <>
-      <div className="fakeHadding"></div>
+      {/* <div className="fakeHadding"></div> */}
       <div className='about'>
         <div className="right">
           <div className='abtMe'>
