@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
 
-      <div className="fakeHadding"></div>
+      {/* <div className="fakeHadding"></div> */}
       <div className='home'>
         <div className="contain">
           <div className="hello">
