@@ -4,12 +4,12 @@ const Skills = () => {
   return (
     <>
       <div className="fakeHadding"></div>
+      
       <div className='skill'>
-
+        <h1 className='h1'> Skills</h1>
         <div className="TechnicalSkills skills">
           <h1 className='h1'>Tech Skills</h1>
           <div className="tech">
-
             <ul className='ul'>
               <li className='li'>
                 <strong>Programming Languages:</strong>
@@ -29,7 +29,7 @@ const Skills = () => {
                   <i className="devicon-laravel-plain colored"></i>
                   <span className='techSk'>Laravel</span>
                 </div>
-                
+
 
                 <div className="logo-container">
                   <i className="devicon-react-original colored"></i>
@@ -62,42 +62,42 @@ const Skills = () => {
           </div>
         </div>
         <div className="SoftSkills skills">
-  <h1 className='h1'>Soft Skills</h1>
-  <div className="soft">
-    <ul className='ul'>
-      <li className='li'>
-        <strong>Communication:</strong>
-        <div className="logo-container">
-          <i className="devicon-communication-plain colored"></i>
-          <span className='softSK'>Fluent in English, I can communicate my ideas effectively, ensuring clarity in both professional and personal conversations.</span>
-        </div>
-      </li>
-      <li className='li'>
-        <strong>Teamwork:</strong>
-        <div className="logo-container">
-          <i className="devicon-communication-plain colored"></i>
-          <span className='softSK'>Enjoy working with teams, building strong relationships, and collaborating to achieve common goals, whether individually or as part of a group.</span>
-        </div>
-      </li>
+          <h1 className='h1'>Soft Skills</h1>
+          <div className="soft">
+            <ul className='ul'>
+              <li className='li'>
+                <strong>Communication:</strong>
+                <div className="logo-container">
+                  <i className="devicon-communication-plain colored"></i>
+                  <span className='softSK'>Fluent in English, I can communicate my ideas effectively, ensuring clarity in both professional and personal conversations.</span>
+                </div>
+              </li>
+              <li className='li'>
+                <strong>Teamwork:</strong>
+                <div className="logo-container">
+                  <i className="devicon-communication-plain colored"></i>
+                  <span className='softSK'>Enjoy working with teams, building strong relationships, and collaborating to achieve common goals, whether individually or as part of a group.</span>
+                </div>
+              </li>
 
-     
-      <li className='li'>
-        <strong>Leadership:</strong>
-        <div className="logo-container">
-          <i className="devicon-leadership-plain colored"></i>
-          <span className='softSK'>With leadership experience from my childhood, including being a team captain, I guide others, helping them grow and succeed as part of a team.</span>
+
+              <li className='li'>
+                <strong>Leadership:</strong>
+                <div className="logo-container">
+                  <i className="devicon-leadership-plain colored"></i>
+                  <span className='softSK'>With leadership experience from my childhood, including being a team captain, I guide others, helping them grow and succeed as part of a team.</span>
+                </div>
+              </li>
+              <li className='li'>
+                <strong>Problem Solving:</strong>
+                <div className="logo-container">
+                  <i className="devicon-problem-solving-plain colored"></i>
+                  <span className='softSK'>Excellent at critical thinking, I can break down complex problems and find effective solutions, both in tech and real-world situations.</span>
+                </div>
+              </li>
+            </ul>
+          </div>
         </div>
-      </li>
-      <li className='li'>
-        <strong>Problem Solving:</strong>
-        <div className="logo-container">
-          <i className="devicon-problem-solving-plain colored"></i>
-          <span className='softSK'>Excellent at critical thinking, I can break down complex problems and find effective solutions, both in tech and real-world situations.</span>
-        </div>
-      </li>
-    </ul>
-  </div>
-</div>
 
 
 

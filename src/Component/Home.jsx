@@ -3,8 +3,8 @@ import Typewriter from './Typewriter'
 
 const Home = () => {
   return (
-   <>
-    
+    <>
+
       <div className="fakeHadding"></div>
       <div className='home'>
         <div className="contain">
@@ -16,12 +16,11 @@ const Home = () => {
             <p >Passionate web developer, dedicated to creating user-friendly and responsive websites. I strive to blend creativity with functionality, ensuring seamless and engaging user experiences.
             </p>
           </div>
+          <a className="resume" href="/HANEEN_MOUSA.pdf" download>
+          Download Resume
+        </a>
         </div>
-        <div className="resume">  
-          <a href="/HANEEN_MOUSA.pdf" download>
-          <h3>Download Resume</h3>
-          </a>
-        </div>
+        
       </div>
     </>
   )
